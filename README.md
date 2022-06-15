@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-My name is Jennefer Maldonado, I am a full time masters student at Adelphi University studying applied mathematics and data science. In my free time I tutor at the learning center at AU and work part time as a student assistant in the data science and system integration program at Brookhaven National Laboratory.
+My name is Jennefer Maldonado, I recently graduated with my masters degree from Adelphi University in applied mathematics and data science. I now work as a Senior Applications Analyst at Brookhaven National Laboratory.
 
-- 🔭 I’m currently working on machine learning techniques to simulate beamlines at NSLS-II.
+- 🔭 I’m currently working on applications for the Relativistic Heavy Ion Collider (RHIC).
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me: jennmaldona@gmail.com 
 
