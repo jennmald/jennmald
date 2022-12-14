@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 My name is Jennefer Maldonado, I recently graduated with my masters degree from Adelphi University in applied mathematics and data science. I now work as a Senior Applications Analyst at Brookhaven National Laboratory.
 
-- 🔭 I’m currently working on applications for the Relativistic Heavy Ion Collider (RHIC).
+- 🔭 I’m currently working on applications for the collider accelerator department.
+- 👯 I’m looking to collaborate on machine learning projects!
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me: jennmaldona@gmail.com 
 
-
-![Jenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennmald&layout=compact&langs_count=9)](https://github.com/jennmald/github-readme-stats)
 
