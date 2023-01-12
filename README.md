@@ -11,6 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennmald&layout=compact)](https://github.com/jennmald/github-readme-stats)
+
+
+_Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)._
+
 -->
 
 
@@ -20,9 +25,3 @@ My name is Jennefer Maldonado, I recently graduated with my masters degree from 
 - 👯 I’m looking to collaborate on machine learning projects!
 - 😄 Pronouns: she/her/hers
 - 📫 How to reach me: jennmaldona@gmail.com 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennmald&layout=compact)](https://github.com/jennmald/github-readme-stats)
-
-
-_Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats)._
