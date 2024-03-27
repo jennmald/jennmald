@@ -19,9 +19,4 @@ _Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-s
 -->
 
 
-My name is Jennefer Maldonado, I graduated with my masters degree from Adelphi University in applied mathematics and data science. I now work as a Senior Applications Analyst at Brookhaven National Laboratory.
-
-- 🔭 I’m currently working on upgrading applications for the collider accelerator department.
-- 👯 I’m looking to collaborate on machine learning projects!
-- 😄 Pronouns: she/her/hers
-- 📫 How to reach me: jennmaldona@gmail.com 
+Data Scientist 💻
