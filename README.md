@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 Data Scientist 💻 App Developer 🎮 Guinea Pig Mom 🐹
 
 
-Currently working for Brookhaven National Laboratory's Collider Accelerator Controls Group.
-
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennmald&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Jennmald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=shadow_blue&rank_icon=github)
