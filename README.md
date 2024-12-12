@@ -17,11 +17,10 @@ Here are some ideas to get you started:
 
 -->
 
-
-Data Scientist 💻 Guinea Pig Mom 🐹
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennmald&theme=shadow_blue)](https://github.com/anuraghazra/github-readme-stats)
+Research Staff Engineer at NSLS-II 💫 
+- 🌱 Supporting data acquisition and detectors
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I have 4 pet guinea pigs 🐖 and love to do yoga 🧘‍♀️ 
 
 ![Jennmald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=shadow_blue)
 
