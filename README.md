@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 
 -->
 
-Research Staff Engineer at NSLS-II 💫 
-- 🌱 Supporting data acquisition and detectors
+💫 Research Staff Engineer at NSLS-II  
+🌱 Supporting data acquisition and detectors
 
 ![Jennmald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=tokyonight-duo)
 
