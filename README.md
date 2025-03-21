@@ -19,9 +19,9 @@ Here are some ideas to get you started:
 
 Research Staff Engineer at NSLS-II 💫 
 - 🌱 Supporting data acquisition and detectors
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I have 4 pet guinea pigs 🐖 and love to do yoga 🧘‍♀️ 
 
-![Jennmald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=shadow_blue)
+![Jennmald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=tokyonight-duo)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jennmald&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats).
