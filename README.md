@@ -17,11 +17,13 @@ Here are some ideas to get you started:
 
 -->
 
-💫 Research Staff Engineer at NSLS-II  
-🌱 Supporting data acquisition and detectors
+💫 Research Staff Engineer at NSLS-II, supporting data acquisition and detectors
 
-![Jennmald's GitHub stats](https://github-readme-stats.vercel.app/api?username=jennmald&show_icons=true&theme=tokyonight-duo)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jennmald&theme=tokyonight-duo)](https://git.io/streak-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jennmald" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennmald&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats).
