@@ -13,17 +13,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jennmald&layout=compact)](https://github.com/jennmald/github-readme-stats)
-
 -->
 
 💫 Research Staff Engineer at NSLS-II, supporting data acquisition and detectors
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=jennmald" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jennmald&layout=compact&langs_count=8&card_width=320" />
-</a>
+<img width="250![Uploading barney_jennefermaldonado_dog.jpeg…]()
+" alt="IMG_9825-2" src="https://github.com/user-attachments/assets/57359f7e-1e70-41e7-b3cd-2cd2c5902031" />
 
-Stats courtesy of [@anuraghazra](https://github.com/anuraghazra/github-readme-stats).
+
+
+
+
